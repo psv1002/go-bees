@@ -1,1 +1,9 @@
-carrera 17
+Manual de usuario
+Publicar en Google Play
+Añadir UI tests
+NullPointerException al pasar a landscape
+Valores de los ejes incorrectos en los gráficos del tiempo
+Resources$NotFoundException con vectores en Android < 21
+Solapamiento con nombres largos en pantalla < 720px
+Pasar memoria doc a latex
+Gráfico incorrecto con grabación a 0
