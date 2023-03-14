@@ -6,7 +6,8 @@ Realizar un índice con puntos que tenemos que tratar.
 Recopilar toda la información posible de cada punto del índice.
 Redactar el pdf con todos los puntos de nuestro índice.
 Revisar las faltas de ortografía.
-Revisar la bibliografía.
+Revisar la bibliografía y citar autores.
+Enumerar el pdf.
 Revisar el formato del pdf.
 Enviar el pdf al tutor para que lo revise y nos indique si hay que realizar modificaciones.
 Utilizar el pdf realizado para crear una presentación para exponer el trabajo de fin de grado.
