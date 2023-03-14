@@ -1,6 +1,6 @@
 carrera 20
 Plantear diversos temas que tenemos como opciones para realizar el trabajo de fin de grado
-Determinar cual de los temas es más interesante y tiene más informacion útil
+Determinar cuál de los temas es más interesante y tiene más informacion útil
 Elegir de entre todos los temas, el que vamos a desarrollar para nuestro trabajo de fin de grado
 Plantear al tutor el tema elegido para que nos ayude a plantearlo
 Realizar un índice con puntos que tenemos que tratar 
