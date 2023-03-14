@@ -1,1 +1,17 @@
-carrera 16
+Añadir coordenadas manualmente
+Diseño de interfaces
+Diseño procedimental
+Diseño arquitectónico
+Incremento la cobertura en las clases de utilidad
+Solapamiento con condiciones meteorológicas largas
+Permitir notas multilinea
+Borrar anterior registro al actualizar el tiempo actual
+Opción generar colmenar de muestra
+Diseño de datos
+Las imágenes no se posicionan correctamente en pdf generado
+Estudio de viabilidad económica 
+Especificación de requisitos
+Integración de SonarQube
+Implementar splash screen
+Documentar Sprint 15
+Añadir apks en las releases
