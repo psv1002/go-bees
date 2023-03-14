@@ -1,7 +1,7 @@
-Pasar anexos a Latex
-Manual del programador
-Pasar SonarQube tribunal
-Imprimir memoria
-Rematar memoria
-Cuenta atrás de la monitorización incoherente
-Al eliminar colmenar se cruza el resumen meteorológico
+Pasar anexos a Latex.
+Manual del programador.
+Pasar SonarQube tribunal.
+Imprimir memoria.
+Rematar memoria.
+Cuenta atrás de la monitorización incoherente.
+Al eliminar colmenar se cruza el resumen meteorológico.
