@@ -1,16 +1,15 @@
-carrera 20
-Plantear diversos temas que tenemos como opciones para realizar el trabajo de fin de grado
-Determinar cuál de los temas es más interesante y tiene más informacion útil
-Elegir de entre todos los temas, el que vamos a desarrollar para nuestro trabajo de fin de grado
-Plantear al tutor el tema elegido para que nos ayude a plantearlo
-Realizar un índice con puntos que tenemos que tratar 
-Recopilar toda la información posible de cada punto del índice
-Redactar el pdf con todos los puntos de nuestro índice
-Revisar las faltas de ortografía
-Revisar la bibliografía
+Plantear diversos temas que tenemos como opciones para realizar el trabajo de fin de grado.
+Determinar cuál de los temas es más interesante y tiene más informacion útil.
+Elegir de entre todos los temas, el que vamos a desarrollar para nuestro trabajo de fin de grado.
+Plantear al tutor el tema elegido para que nos ayude a plantearlo.
+Realizar un índice con puntos que tenemos que tratar.
+Recopilar toda la información posible de cada punto del índice.
+Redactar el pdf con todos los puntos de nuestro índice.
+Revisar las faltas de ortografía.
+Revisar la bibliografía.
 Revisar el formato del pdf.
-Enviar el pdf al tutor para que lo revise y nos indique si hay que realizar modificaciones
-Utilizar el pdf realizado para crear una presentación para exponer el trabajo de fin de grado
+Enviar el pdf al tutor para que lo revise y nos indique si hay que realizar modificaciones.
+Utilizar el pdf realizado para crear una presentación para exponer el trabajo de fin de grado.
 Imprimir y encuadernar el pdf para entregarlo en mano.
 Estudiarse la presentación para poder defenderla. 
 Gestionar el tiempo necesario de exposición.
