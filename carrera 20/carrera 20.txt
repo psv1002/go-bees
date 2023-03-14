@@ -11,3 +11,4 @@ Enviar el pdf al tutor para que lo revise y nos indique si hay que realizar modi
 Utilizar el pdf realizado para crear una presentación para exponer el trabajo de fin de grado
 Imprimir y encuadernar el pdf para entregarlo en mano.
 Estudiarse la presentación para poder defenderla 
+Gestionar el tiempo necesario para cada tarea.
